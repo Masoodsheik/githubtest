@@ -19,7 +19,7 @@ public class digiits {
 				//sum=sum+res;
 			}
 		}
-		System.out.println(sum);
+		System.out.println(sum+"Sum of the digitis");
 	}
 	
 }
